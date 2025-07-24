@@ -1,0 +1,2 @@
+Mac用sh文件
+Win用bat文件
